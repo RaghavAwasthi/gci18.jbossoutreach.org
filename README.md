@@ -3,6 +3,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
+## Wireframes
+![](https://raw.githubusercontent.com/JBossOutreach/gci18.jbossoutreach.org/Images/Image1.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/gci18.jbossoutreach.org/Images/Image2.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/gci18.jbossoutreach.org/Images/Image3.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/gci18.jbossoutreach.org/Images/Image4.jpg)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
